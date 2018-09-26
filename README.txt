@@ -1,5 +1,5 @@
 // Structure: Map
-// Motion: Poses
+// Motion:    Poses
 
 For an installation instruction, please look at "INSTALL.txt".
 
