@@ -1,3 +1,6 @@
+// Structure: Map
+// Motion: Poses
+
 For an installation instruction, please look at "INSTALL.txt".
 
 If RobotVision is already install, you can run the demo application
