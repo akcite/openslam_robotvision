@@ -1,5 +1,6 @@
 // Structure: Map
 // Motion:    Poses
+// Pose:      T_cam_world
 
 For an installation instruction, please look at "INSTALL.txt".
 
